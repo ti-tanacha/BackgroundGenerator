@@ -1,0 +1,15 @@
+body {
+	font-family: 'Poiret One', cursive;
+
+	/*default background*/
+	background: linear-gradient(to right, black, white);
+}
+
+.container {
+	text-align: center;
+	margin: 10% 5%;
+}
+
+.randomBtn {
+	padding: 5px;
+}
